@@ -7,9 +7,11 @@ The main objective of this app is to help end users to check slot availability o
 
 # Screenshots
 - Welcome Screen
+
 ![](./screenshots/Welcome-Screen.jpeg)
 
 - Home Screen
+
 ![](./screenshots/Home-Screen.jpeg)
 
 - Slot Availability Screen
