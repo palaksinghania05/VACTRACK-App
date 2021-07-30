@@ -138,7 +138,7 @@ const styles = StyleSheet.create({
     height: 50,
     borderColor: 'white',
     borderWidth: 2,
-    outline: 'none',
+   // outline: 'none',
     borderRadius: 20,
     marginVertical: 10,
     paddingLeft: 30,
