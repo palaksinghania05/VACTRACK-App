@@ -5,6 +5,9 @@ The main objective of this app is to help end users to check slot availability o
 - React-Native
 - JavaScript
 
+# Demo Video
+https://drive.google.com/file/d/1Wz-SVJOl9XslKSEd3MyK4cZlTfBujVot/view?usp=sharing
+
 # Screenshots
 - Welcome Screen
 
